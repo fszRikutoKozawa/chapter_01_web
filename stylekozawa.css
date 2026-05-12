@@ -1,10 +1,16 @@
 @charset "UTF-8";
+
 h1 {
-	color:rgb(0, 255, 255);
+	color:rgb(0, 0, 0);
 	font-size:30px;
 }
 
+table{
+	font-size:20px;
+}
+
+
 p{
-	color:rgb(0, 255, 128);
+	color:rgb(0, 0, 0);
 	font-size:20px;
 }
