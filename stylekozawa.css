@@ -5,6 +5,10 @@ h1 {
 	font-size:30px;
 }
 
+body{
+	background-color:rgb(128, 255, 255);
+}
+
 table{
 	font-size:20px;
 }
@@ -12,5 +16,9 @@ table{
 
 p{
 	color:rgb(0, 0, 0);
+	font-size:20px;
+}
+
+a{
 	font-size:20px;
 }
